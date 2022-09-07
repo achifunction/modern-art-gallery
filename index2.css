@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@300;800;900&family=Kumbh+Sans:wght@400;700&family=Outfit:wght@300&family=Plus+Jakarta+Sans:wght@500;700;800&display=swap");
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.map {
+  background-image: url(https://cdn.glitch.global/c85094a1-f515-4322-afd4-ac81da5b1df1/image-map.png?v=1657140251524);
+  height: 493px;
+  width: 376px;
+  background-repeat: no-repeat;
+}
+.end {
+  background: black;
+  height: 493px;
+  width: 375px;
+}
+h2 {
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 45px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.street {
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: #d5966c;
+  margin: 0px 16px 0px 16px;
+}
+.content-white {
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+}
+.footer {
+  height: 336px;
+  width: 375px;
+  background-color: rgba(213, 150, 108, 1);
+}
+.content-black {
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 26px;
+  color: black;
+}
+.loc2 {
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 50px;
+  line-height: 45px;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 48px 16px 48px 16px;
+}
+a {
+  display: block;
+}
+address {
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  margin: 20px 16px 20px 16px;
+}
+p1 {
+  padding: 20px 16px 56px 16px;
+  display: block;
+}
+.inst {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.fc {
+  margin-left: 32px;
+}
+.icon {
+  padding-top: 32px;
+}
+.mod2 {
+  margin: 48px 32px 38px 32px;
+}
+h {
+  display: block;
+  margin: 0px 32px;
+}
+.back-to-home {
+  background-color: black;
+  height: 72px;
+  width: 260px;
+
+  display: flex;
+  justify-content: space-between;
+}
+.back-home {
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 3.63636px;
+  color: #ffffff;
+  margin: 24px 0px 24px 0px;
+  padding-right: 23px;  
+  display: block;
+}
+
+.org {
+  background: rgba(213, 150, 108, 1);
+  height: 72px;
+  width: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
